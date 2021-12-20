@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meetaghera
+- 👋 Hi,
 - 👀 I’m interested in ...PYTHON RELATED PROJECTS
 - 🌱 I’m currently learning ...PYTHON , ML , AI
 - 💞️ I’m looking to collaborate on ...
