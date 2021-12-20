@@ -1,6 +1,5 @@
 - 👋 Hi,
-- 👀 I’m interested in ...PYTHON RELATED PROJECTS
-- 🌱 I’m currently learning ...PYTHON , ML , AI
+- 👀 I’m interested in ...PYTHON RELATED PROBLEMS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...meetaghera228@gmail.com
 
