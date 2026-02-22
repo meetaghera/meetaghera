@@ -5,8 +5,8 @@
  Always up for a good challenge and collaborating on cool projects. Welcome to my corner of GitHub!
  
 
-These days I'm focused on: 
-🧩 Sharpening my problem-solving skills through DSA — turning logic into a superpower.
+These days I'm focused on:                                                                                                                                                                                           🧩 Sharpening my problem-solving skills through DSA — turning logic into a superpower.
+The world of AI — because the future is too exciting to ignore.
 
 =================================================================================
 
