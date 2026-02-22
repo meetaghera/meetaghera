@@ -1,6 +1,4 @@
 - Hi there! 
 
-<!---
-meetaghera/meetaghera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ I'm MeetI love taking an idea from zero to something people can actually use. 
+ Always up for a good challenge and collaborating on cool projects. Welcome to my corner of GitHub!
