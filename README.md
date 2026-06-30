@@ -17,9 +17,10 @@ Can smash a cover drive and a smash shot — yes, I play both cricket & badminto
 
 - 💻 LeetCode: [https://leetcode.com/u/meetaghera228/](https://leetcode.com/u/meetaghera228/)
 
-### 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
