@@ -13,6 +13,8 @@ The world of AI — because the future is too exciting to ignore.
 I switch between rackets and keyboards like it's nothing.
 Can smash a cover drive and a smash shot — yes, I play both cricket & badminton.
 
-## 🏆 LeetCode
+## 📊 GitHub Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/meetaghera228?theme=dark&font=Baloo&ext=contest)
+![Meet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetaghera&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=meetaghera&theme=github-dark)
