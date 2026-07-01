@@ -8,8 +8,6 @@
 These days I'm focused on:                                                                                                                                                                                           🧩 Sharpening my problem-solving skills through DSA — turning logic into a superpower.
 The world of AI — because the future is too exciting to ignore.
 
-------
-
 I switch between rackets and keyboards like it's nothing.
 Can smash a cover drive and a smash shot — yes, I play both cricket & badminton.
 
